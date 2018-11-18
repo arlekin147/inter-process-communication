@@ -1,0 +1,1 @@
+g++ %~1.cpp -o %~1.exe --std=c++17 -static-libgcc -static-libstdc++
